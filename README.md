@@ -1,1 +1,1 @@
-# sudoku-solver-java
+Java sudoku solver
